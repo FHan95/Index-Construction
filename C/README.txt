@@ -1,0 +1,1 @@
+This C program begins by asking user for the document collection. It then runs through the document and stores the title and abstract terms in members of a Doc struct called original_title and original_abstract, respectively. 

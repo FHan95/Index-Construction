@@ -1,0 +1,1 @@
+This Ruby program begins by asking user for the document collection. It then runs through the document and generates postings_list.txt in JSON format. The postings_list.txt file contains the term in quotations with the key value pairs as the document ID and its position. It captures the first occurence of the term and disregards the same term in the same document ID.
